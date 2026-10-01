@@ -1,0 +1,58 @@
+Folder PATH listing for volume New Volume
+Volume serial number is 8A7B-6413
+D:.
+|   tree.txt
+|   
++---backend
+|   |   .gitignore
+|   |   
+|   \---app
+|       |   __init__.py
+|       |   
+|       +---analytics
+|       |       __init__.py
+|       |       
+|       +---api
+|       |   |   __init__.py
+|       |   |   
+|       |   \---routes
+|       |           __init__.py
+|       |           
+|       +---core
+|       |       __init__.py
+|       |       
+|       +---models
+|       |       __init__.py
+|       |       
+|       +---schemas
+|       |       __init__.py
+|       |       
+|       +---services
+|       |       __init__.py
+|       |       
+|       \---utils
+|               __init__.py
+|               
++---data
+|       agents.csv
+|       customers.csv
+|       orders.csv
+|       products.csv
+|       tickets.csv
+|       
++---docs
++---frontend
+|   \---src
+|       +---assets
+|       +---components
+|       |   +---agents
+|       |   +---charts
+|       |   +---common
+|       |   \---dashboard
+|       +---hooks
+|       +---pages
+|       +---services
+|       +---types
+|       \---utils
++---scripts
+\---tests
